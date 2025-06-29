@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "watch-dashboard-464414",
+  "private_key_id": "6f7fdcd36c285deb70f7f85bef750096799b7532",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDVXkgJrE0XVUkH\nhaVap/Nnwe0g0872ZGE/ZMnsEoOlJsH3SnkvFCntE5bqLxEIZpYBFU1SdKBWLogd\nmhYx+lOV4mJnCyo2Zh5e9e9Z1rlmF6vYvgiBvx36ktI057hU0h/DjF9u45O1rCRZ\nA1pMN3AfoDde0/iauOyaeyBaJ0V4Mp3InmDOEoq33K4SBq1i6q/Vvooe45U2PmCL\ngvJ9wcM965Qyo60l97ek8PRNK6y/CBWIqISovu+Dr9gC3Wp2MX/rJvQNoFnjuLK2\nfJ3rwdkl0mjApguzRt8AW7gqg+sNP37ostoViXI63QB4NU9yiQLzCGF1jyTav5dZ\nT5RZ55b/AgMBAAECggEAHTlAFEnBTKMAO85Yvagc5PGr45/5tp08r+eYkRkKEdp9\n8juvibyxGgkMVaqOTSsWfDMpjNPEys5YaKGG97UUXLDjOb95j8uAeRDQhcAB/aiG\nqiArtHBI5V3VpQG11AbsQHwfQrtbKvoBsnVh7pLLQcb6aSZkOaDUEJEw9wLDojjL\nGpoHeBKpjGxebN8mRBYF4DCSBfBf95bmlH2++mI13jwOCiQGO6OjQCdL57MA84zQ\nOoykqtEHO62gzIiTcH6kipohghR8a0jjErYA4G2FJGAtBoMgIxbEqtYz+/pDV8HQ\nw5sqA1tQDyoSOPZkCE1A1yyj5qw9LKF33NDZInaadQKBgQD2SH82t4rEECHZVfEe\n1N06+xwCKR9JrpCmjWTban6NLxwm39M0JMcAxU5DzQJRmrULufQTU4or75FDCO2p\npGwMEVxb4lHPLB6W5Ujc8nPiNo0n4roHOKUb1QbLMl5PZ/Wi58KpscQ0A7tykWIN\nYmVnWlcCLoOfGUpxP0jvVASGjQKBgQDdyVaU2X+nYqbscmt0f/vmFO5lzC7NAI4F\nkaMla/4HX0qC6/qg+IFAzVaum+Kz+HZtq1WQmfPiZx05H4ZQziMtebn5P/g9juZn\nVJ2A27CDauBixZIy+FAFhwlhoT6HsgNu+CRR88+QnW2xC/vHw5B4HqMvo+br5Oib\nfIwD0boGuwKBgHCQniRiK3iFbxMo5rYS0LLehuSt6vEAanjVc12eBQ1+lL1n296f\nWJ2PkMAIeaDWtx0O9vHGYwbFznz3HblFv2ScorwUaxPntGt/jJf/8NtZ15Z9WE1o\npH5eFWbWNKjSeUDl8OEisOydMBWjQU+gw3xDnDUREXOsWYv9QtawbgkZAoGBAN1g\ngtPA5fKmPgf1jdyTg1R9wBhMXsqxqxFT9Yz85mtlanKUKW9TnXCZhdR0NS1+7Hc7\ndgUIJq/uTPUfymoN2H8j6cYpXBfV85VgmHZu0xnaLG9q1iuaQAXEbFDPKiM4RMUX\nWumSe7TV7w+x7nfPdPzxV+HNsEn2C1hoUTnetdjRAoGBAPIVBlDfxpulb+zV6pB8\nfvCqW4DE1AAEotuML40d7bDwz9xqwRXAoAG7rKhxLCLGLWHEiqqWLvwI2m7ASmL1\n+1DkVN2BnMD+mKm+0POC6xco8XhGhvlGcN9SO4tZxH/o3rvMaAWsiERhpadAFOvE\nmTEk364tSAMqJmaU3TX40DBS\n-----END PRIVATE KEY-----\n",
+  "client_email": "watch-dashboard-service@watch-dashboard-464414.iam.gserviceaccount.com",
+  "client_id": "105840983234861705256",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/watch-dashboard-service%40watch-dashboard-464414.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
