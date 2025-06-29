@@ -14,5 +14,5 @@ sheet = client.open("Watch_Inventory_Data").worksheet("Inventory")
 data = sheet.get_all_records()
 df = pd.DataFrame(data)
 
-st.title("📊 Watch Trading Dashboard")/Users/andrehabib/Downloads/watch-dashboard-464414-6f7fdcd36c28.json
+st.title("📊 Watch Trading Dashboard")
 st.dataframe(df)
